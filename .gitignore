@@ -1,0 +1,11 @@
+# AI settings（符号链接自 ai-settings 仓库）
+.claude/
+.cursor/
+.windsurf/
+.trae/
+.opencode/
+.github/
+.specify/
+.claude/settings.local.json
+.cursor/settings.local.json
+.windsurf/settings.local.json
